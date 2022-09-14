@@ -1,0 +1,10 @@
+
+// Formatando o corpo todo do projeto
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Opens Sans', Sans-serif;
+  background-color: #efefef;  
+  heigth: 100%;
+}
